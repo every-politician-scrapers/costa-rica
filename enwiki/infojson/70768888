@@ -1,0 +1,77 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of the Presidency of Costa Rica"
+      ],
+      "stated_as": "Minister of the Presidency of Costa Rica"
+    },
+    "P580": "1986-05-08",
+    "P1365": {
+      "links": [
+        "Danilo Jiménez Veiga"
+      ],
+      "stated_as": "Danilo Jiménez Veiga"
+    },
+    "P582": "1990-05-08",
+    "P1366": {
+      "links": [
+        "Rodolfo Méndez Mata"
+      ],
+      "stated_as": "Rodolfo Méndez Mata"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of the Presidency of Costa Rica"
+      ],
+      "stated_as": "Minister of the Presidency of Costa Rica"
+    },
+    "P580": "2006-03-08",
+    "P1365": {
+      "links": [
+        "Lineth Saborío Chaverri"
+      ],
+      "stated_as": "Lineth Saborío Chaverri"
+    },
+    "P582": "2010-05-08",
+    "P1366": {
+      "links": [
+        "Marco Vargas Díaz"
+      ],
+      "stated_as": "Marco Vargas Díaz"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Legislative Assembly of Costa Rica",
+        "San José Province"
+      ],
+      "stated_as": "Deputy of the Legislative Assembly\nfrom San José's 1st seat"
+    },
+    "P580": "2022-05-01",
+    "P1365": {
+      "links": [
+        "Carlos Ricardo Benavides Jiménez"
+      ],
+      "stated_as": "Carlos Benavides Jiménez"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the Legislative Assembly of Costa Rica"
+      ],
+      "stated_as": "President of the Legislative Assembly of Costa Rica"
+    },
+    "P580": "2022-05-01",
+    "P1365": {
+      "links": [
+        "Silvia Hernández Sánchez"
+      ],
+      "stated_as": "Silvia Hernández Sánchez"
+    }
+  }
+]
