@@ -1,0 +1,216 @@
+{
+  "title": "Stephan Brunner",
+  "pageID": 70493571,
+  "categories": [
+    "Living people",
+    "1961 births",
+    "Costa Rican politicians",
+    "University of Kiel alumni",
+    "Indiana University Bloomington alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stephan Lars Andreas Brunner Neibig is a Costa Rican politician and economist who is the First Vice-president of Costa Rica.",
+              "links": [
+                {
+                  "text": "First Vice-president of Costa Rica",
+                  "type": "internal",
+                  "page": "Vice President of Costa Rica"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Stephan Lars Andreas Brunner Neibig"
+                ]
+              }
+            },
+            {
+              "text": "He assumed office on 8 May 2022."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Brunner earned a Bachelor of Arts degree in cultural economics from the University of Kiel, a Master of Arts in economics from Indiana University Bloomington, and a PhD in economics from the University of Kiel.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Kiel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indiana University Bloomington"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Costa Rican politician",
+          "template": "short description"
+        },
+        {
+          "year": "1961",
+          "month": "2",
+          "day": "28",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Stephan Brunner"
+          },
+          "image": {
+            "text": "Vicepresidente Stephan Brunner (cropped).jpg"
+          },
+          "office": {
+            "text": "First Vice-President of Costa Rica",
+            "links": [
+              {
+                "text": "First Vice-President of Costa Rica",
+                "type": "internal",
+                "page": "Vice President of Costa Rica"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Mary Munive",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mary Munive"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 May 2022"
+          },
+          "president": {
+            "text": "Rodrigo Chaves Robles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Chaves Robles"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Epsy Campbell Barr",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Epsy Campbell Barr"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Stephan Brunner Neibig"
+          },
+          "birth_date": {
+            "text": "February 28, 1961"
+          },
+          "party": {
+            "text": "PPSD",
+            "links": [
+              {
+                "text": "PPSD",
+                "type": "internal",
+                "page": "Social Democratic Progress Party"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of Kiel (BA, PhD) Indiana University Bloomington (MA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Kiel"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
+              },
+              {
+                "type": "internal",
+                "page": "Indiana University Bloomington"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Chaves anuncia a Stephan Brunner como coordinador económico y a Mary Munive en lo social",
+          "url": "https://www.nacion.com/el-pais/politica/vicepresidente-electo-stephan-brunner-sera-el/CQPDNZI6NRHOBJRQYCJPZTGZY4/story/",
+          "author": "Rebeca Madrigal Q.",
+          "trans-title": "Chaves announces Stephan Brunner as economic coordinator and Mary Munive as social coordinator",
+          "date": "4 April 2022",
+          "access-date": "4 May 2022",
+          "publisher": "La Nación",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Paraguay congratula a las autoridades electas de Costa Rica",
+          "trans-title": "Paraguay congratulates the elected authorities of Costa Rica",
+          "language": "es",
+          "url": "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-congratula-las-autoridades-electas-de-costa-rica",
+          "access-date": "7 April 2022",
+          "website": "www.mre.gov.py",
+          "publisher": "Ministry of Foreign Affairs of Paraguay",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Candidaturas a Presidencia y Vicepresidencias, PARTIDO PROGRESO SOCIAL DEMOCRATICO, STEPHAN BRUNNER NEIBIG",
+          "url": "https://www.tse.go.cr/fichas/candidaturas/P/p-PSD/105510932/",
+          "access-date": "2022-04-08",
+          "website": "¿Dónde votar? TSE Costa Rica",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "central america vice presidents"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "costarica-politician-stub"
+        }
+      ]
+    }
+  ]
+}

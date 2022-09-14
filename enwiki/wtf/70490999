@@ -1,0 +1,155 @@
+{
+  "title": "Mary Munive",
+  "pageID": 70490999,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Costa Rican politicians",
+    "Vice presidents of Costa Rica",
+    "Women vice presidents"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mary Denisse Munive Angermüller (born 10 April 1981) is a Costa Rican physician and politician who is the Second Vice President of Costa Rica.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice President of Costa Rica"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mary Denisse Munive Angermüller"
+                ]
+              }
+            },
+            {
+              "text": "She assumed office on 8 May 2022."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Costa Rican politician",
+          "template": "short description"
+        },
+        {
+          "year": "1981",
+          "month": "4",
+          "day": "10",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Vicepresidenta Mary Munive Angermuller (cropped).jpg"
+          },
+          "name": {
+            "text": "Mary Munive"
+          },
+          "office": {
+            "text": "Second Vice-President of Costa Rica",
+            "links": [
+              {
+                "text": "Second Vice-President of Costa Rica",
+                "type": "internal",
+                "page": "Vice President of Costa Rica"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Stephan Brunner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephan Brunner"
+              }
+            ]
+          },
+          "president": {
+            "text": "Rodrigo Chaves Robles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rodrigo Chaves Robles"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 May 2022"
+          },
+          "predecessor": {
+            "text": "Marvin Rodríguez Cordero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marvin Rodríguez Cordero"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Mary Denisse Munive"
+          },
+          "party": {
+            "text": "PPSD",
+            "links": [
+              {
+                "text": "PPSD",
+                "type": "internal",
+                "page": "Social Democratic Progress Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 10, 1981"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Chaves anuncia a Stephan Brunner como coordinador económico y a Mary Munive en lo social",
+          "trans-title": "Chaves announces Stephan Brunner as economic coordinator and Mary Munive as social coordinator",
+          "url": "https://www.nacion.com/el-pais/politica/vicepresidente-electo-stephan-brunner-sera-el/CQPDNZI6NRHOBJRQYCJPZTGZY4/story/",
+          "access-date": "2022-04-07",
+          "publisher": "La Nación",
+          "author": "Rebeca Madrigal Q.",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Portal Oficial del Ministerio de Relaciones Exteriores de la República del Paraguay :: Paraguay congratula a las autoridades electas de Costa Rica",
+          "url": "https://www.mre.gov.py/index.php/noticias-de-embajadas-y-consulados/paraguay-congratula-las-autoridades-electas-de-costa-rica",
+          "access-date": "2022-04-07",
+          "website": "www.mre.gov.py",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "central america vice presidents"
+        },
+        {
+          "template": "costarica-politician-stub"
+        }
+      ]
+    }
+  ]
+}
