@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Rodrigo Alberto de Jesús Chaves Robles (born 10 June 1961) is a Costa Rican economist and politician who is the 49th and current President of Costa Rica, since May 2022.",
+              "text": "Rodrigo Alberto de Jesús Chaves Robles (born 10 June 1961) is a Costa Rican economist and politician who has served as the 49th and current President of Costa Rica since May 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -32,7 +32,7 @@
               }
             },
             {
-              "text": "Chaves was previously Minister of Finance from 2019 to 2020 during the presidency of Carlos Alvarado Quesada.",
+              "text": "He was previously Minister of Finance from 2019 to 2020 during the presidency of Carlos Alvarado Quesada.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -179,7 +179,7 @@
             "text": "Isabella Chaves Zeicate"
           },
           "party": {
-            "text": "PPSD (2020–)",
+            "text": "PPSD (2020–present)",
             "links": [
               {
                 "text": "PPSD",
