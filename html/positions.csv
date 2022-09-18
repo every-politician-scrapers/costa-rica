@@ -1,11 +1,16 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q27977064,President of Costa Rica,Q800,Q800,Q7925043,Q504727,1847-05-08,,,,President of Costa Rica
-Q7925043,Vice President of Costa Rica,Q800,Q800,,,1949-11-07,,,,Vice President of Costa Rica
+Q21328617,Member of the Legislative Assembly of Costa Rica,Q800,Q800,,,,,,,
 Q6402752,Minister of Foreign Affairs,Q800,Q800,,,,,,,Minister of Foreign Affairs (Costa Rica)
 Q113971282,Minister of Housing and Human Settlements of Costa Rica,,Q800,,,,,,,
 Q113971274,Minister of National Planning and Economic Policy of Costa Rica,,Q800,,,,,,,
-Q52244184,Minister of the Presidency of Costa Rica,Q800,Q800,,,,,,,Minister of the Presidency of Costa Rica
 Q113971339,Minister of Public Security of Costa Rica,,Q800,,,,,,,
 Q113970675,Minister of Sport and Recreation of Costa Rica,,Q800,,,,,,,
 Q113970716,Minister of Tourism of Costa Rica,Q800,Q800,,,,,,,
+Q52244184,Minister of the Presidency of Costa Rica,Q800,Q800,,,,,,,Minister of the Presidency of Costa Rica
+Q27977064,President of Costa Rica,Q800,Q800,Q7925043,Q504727,1847-05-08,,,,President of Costa Rica
 Q113969536,President of the Legislative Assembly of Costa Rica,,,,Q6085545,,,,,
+Q7925043,Vice President of Costa Rica,Q800,Q800,,,1949-11-07,,,,Vice President of Costa Rica
+Q107465234,ambassador of Costa Rica to Ecuador,Q800,,,,,,,,
+Q112146073,ambassador of Costa Rica to France,,,,Q16656298,,,,,
+Q30158527,ambassador of Costa Rica to Uruguay,Q800,,,,,,,,
+Q112146025,ambassador of Costa Rica to the Holy See,,,,,,,,,
