@@ -82,6 +82,20 @@
           "spouse": "Signe Zeicate",
           "from": "2015",
           "template": "marriage"
+        },
+        {
+          "transcription": "roˈðɾiɣo ˈtʃaβez ˈroβles",
+          "template": "ipa"
+        },
+        {
+          "transcription": "ˈtʃaβes",
+          "template": "ipa"
+        },
+        {
+          "list": [
+            "In isolation, Chaves is pronounced."
+          ],
+          "template": "efn"
         }
       ],
       "infoboxes": [
@@ -938,6 +952,15 @@
           "date": "4 May 2022",
           "template": "citation",
           "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
         }
       ]
     },
