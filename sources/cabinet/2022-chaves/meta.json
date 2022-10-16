@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Costa Rica",
+        "id": "Q800"
+    },
+    "cabinet": {
+      "id":     "Q111476375",
+      "start":  "2022-05-08",
+      "parent": "Q52898821"
+    },
+    "reference": {
+        "P4656": "https://es.wikipedia.org/wiki/Anexo:Gabinete_de_Rodrigo_Chaves"
+    },
+    "lang": "es",
+    "current_only": "true",
+    "person_description": {
+        "en": "Costa Rican politician"
+    }
+}
