@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+        "name": "Costa Rica",
+        "id": "Q800"
+    },
+    "cabinet": {
+      "id":     "Q111476375",
+      "start":  "2022-05-08",
+      "parent": "Q52898821"
+    },
+    "reference": {
+        "P854":   "https://www.presidencia.go.cr/autoridades/el-gabinete/",
+        "P1476": {
+            "text": "El Gabinete – Presidencia de la República de Costa Rica",
+            "language": "es"
+        }
+    },
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "Costa Rican politician"
+    }
+}
