@@ -8,7 +8,7 @@ class MemberList
   class Members
     decorator RemoveReferences
     decorator UnspanAllTables
-    decorator WikidataIdsDecorator::Links
+    # decorator WikidataIdsDecorator::Links
 
     def member_container
       noko.xpath("//table[.//th[contains(.,'Inicio')]]").first.xpath(".//tr[td]")
@@ -40,6 +40,7 @@ class MemberList
     end
 
     field :endDate do
+      WikipediaDate::Spanish.new(raw_end).to_s
     end
 
     def skip?
@@ -58,6 +59,10 @@ class MemberList
 
     def raw_start
       tds[3].text.tidy
+    end
+
+    def raw_end
+      tds[4].text.tidy.gsub(' del ', ' de ')
     end
   end
 end
