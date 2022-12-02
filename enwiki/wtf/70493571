@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Stephan Lars Andreas Brunner Neibig is a Costa Rican politician and economist who is the First Vice-president of Costa Rica.",
+              "text": "Stephan Lars Andreas Brunner Neibig (born 28 February 1961) is a Costa Rican politician and economist who is the First Vice-president of Costa Rica.",
               "links": [
                 {
                   "text": "First Vice-president of Costa Rica",
@@ -59,6 +59,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Brunner",
+            "Neibig"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1961",
           "month": "2",
           "day": "28",
@@ -73,6 +81,9 @@
           },
           "image": {
             "text": "Vicepresidente Stephan Brunner (cropped).jpg"
+          },
+          "caption": {
+            "text": "Brunner in 2022"
           },
           "office": {
             "text": "First Vice-President of Costa Rica",
@@ -115,7 +126,7 @@
             ]
           },
           "birth_name": {
-            "text": "Stephan Brunner Neibig"
+            "text": "Stephan Lars Andreas Brunner Neibig"
           },
           "birth_date": {
             "text": "February 28, 1961"
@@ -130,7 +141,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "University of Kiel (BA, PhD) Indiana University Bloomington (MA)",
             "links": [
               {

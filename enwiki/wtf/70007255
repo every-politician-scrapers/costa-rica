@@ -76,6 +76,7 @@
           "spouse": "Monika Hempel Nanne",
           "from": "1986",
           "to": "1996",
+          "reason": "div",
           "template": "marriage"
         },
         {
@@ -102,6 +103,9 @@
         {
           "image": {
             "text": "Presidente Rodrigo Chaves 2022 (oficial) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2022"
           },
           "office": {
             "text": "49th President of Costa Rica",
@@ -174,6 +178,9 @@
           "successor1": {
             "text": "Elián Villegas Valverde"
           },
+          "birth_name": {
+            "text": "Rodrigo Alberto de Jesús Chaves Robles"
+          },
           "birth_date": {
             "text": "June 10, 1961"
           },
@@ -202,7 +209,7 @@
               }
             ]
           },
-          "education": {
+          "alma_mater": {
             "text": "University of Costa Rica (no degree)\nOhio State University (BS, MA, PhD)",
             "links": [
               {

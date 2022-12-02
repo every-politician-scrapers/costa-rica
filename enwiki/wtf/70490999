@@ -41,6 +41,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Munive",
+            "Angermüller"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1981",
           "month": "4",
           "day": "10",
@@ -52,6 +60,9 @@
         {
           "image": {
             "text": "Vicepresidenta Mary Munive Angermuller (cropped).jpg"
+          },
+          "caption": {
+            "text": "Munive in 2022"
           },
           "name": {
             "text": "Mary Munive"
@@ -97,7 +108,7 @@
             ]
           },
           "birth_name": {
-            "text": "Mary Denisse Munive"
+            "text": "Mary Denisse Munive Angermüller"
           },
           "party": {
             "text": "PPSD",
@@ -111,6 +122,15 @@
           },
           "birth_date": {
             "text": "April 10, 1981"
+          },
+          "alma_mater": {
+            "text": "University of Costa Rica",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Costa Rica"
+              }
+            ]
           }
         }
       ],
