@@ -1,23 +1,9 @@
 position,person,personID,start,end
-President,Miguel Ángel Rodríguez Echeverría,Q562577,1998-05-08,2002-05-08
 President,Abel Pacheco,Q217794,2002-05-08,2006-05-08
-President,Óscar Arias Sánchez,Q49344,2006-05-08,2010-05-08
-President,Laura Chinchilla,Q57321,2010-05-08,2014-05-08
-President,Luis Guillermo Solís,Q5983599,2014-05-08,2018-05-08
 President,Carlos Alvarado Quesada,Q26996246,2018-05-08,2022-05-08
-President,Rodrigo Alberto de Jesús Chaves Robles,Q98017689,2022-05-08,
-Vice President,Elizabeth Odio Benito,Q456141,1998,2002
-Vice President,Astrid Fischel Volio,Q5709957,1998,2002
-Vice President,Lineth Saborío Chaverri,Q5976724,2002,2006
-Vice President,Luis Fishman Zonzinski,Q6700592,2002,2006
-Vice President,Laura Chinchilla,Q57321,2006,2010
-Vice President,Kevin Casas Zamora,Q6395995,2006,2010
 Vice President,Luis Liberman,Q2072531,2010-05-08,2014-05-08
-Vice President,Alfio Piva,Q4721942,2010-05-08,2014-05-08
 Vice President,Helio Fallas,Q15980216,2014-05-08,2018-05-05
 Vice President,Ana Helena Chacón,Q15980311,2014-05-08,2018-05-08
-Vice President,Marvin Rodríguez Cordero,Q51540879,2018-05-08,2022-05-08
-Vice President,Epsy Campbell Barr,Q5384033,2018-05-08,2022-05-08
 Vice President,Mary Munive,Q111524163,2022-05-08,
 Vice President,Stephan Brunner,Q111677386,2022-05-08,
 Minister of Agriculture and Livestock,Laura Bonilla Coto,Q114705149,2022-05-08,2022-09-09
@@ -30,12 +16,8 @@ Minister of Education,Anna Katharina Müller Castro,Q114705136,2022-05-08,
 Minister of Environment and Energy,Franz Tattenbach Capra,Q114705141,2022-05-08,
 Minister of Finance,Nogui Acosta Jaén,Q114705155,2022-05-08,
 Minister of Foreign Affairs,Roberto Rojas López,Q108344974,1998-05-08,2002-05-08
-Minister of Foreign Affairs,Roberto Tovar Faja,Q7351928,2002-05-08,2006-05-08
-Minister of Foreign Affairs,Bruno Stagno Ugarte,Q58158,2006-05-08,2010-05-08
-Minister of Foreign Affairs,René Castro,Q7313683,2010-05-08,2011-07-28
 Minister of Foreign Affairs,José Enrique Castillo Barrantes,Q113971588,2011-09-05,2014-05-08
 Minister of Foreign Affairs,Manuel González Sanz,Q27916850,2014-05-08,2018-05-08
-Minister of Foreign Affairs,Epsy Campbell Barr,Q5384033,2018-05-08,2018-12-11
 Minister of Foreign Affairs,Manuel Ventura Robles,Q23682309,2019-01-08,2020-01-31
 Minister of Foreign Affairs,Rodolfo Solano Quirós,Q102077694,2020-01-31,2022-05-08
 Minister of Foreign Affairs,Arnoldo André Tinoco,Q114704690,2022-05-08,
@@ -47,16 +29,12 @@ Minister of Human Development and Social Inclusion,Yorleny León Marchena,Q11470
 Minister of Justice and Peace,Gerald Campos Valverde,Q114705143,2022-05-08,
 Minister of Labour and Social Security,Marta Eugenia Esquivel Rodríguez,Q114705153,2022-05-08,2022-09-19
 Minister of National Planning,Laura Fernández Delgado,Q114705150,2022-05-08,
-Minister of the Presidency,Rodrigo Arias Sánchez,Q6110636,2006-03-08,2010-05-08
-Minister of the Presidency,Carlos Ricardo Benavides Jiménez,Q54848004,2011-04-04,2014-05-08
 Minister of the Presidency,Natalia Díaz Quintana,Q28501930,2022-05-08,
 Minister of Public Security,Ana Helena Chacón,Q15980311,2002,2006
 Minister of Public Security,Jorge Torres Castillo,Q114705145,2022-05-08,
 Minister of Public Works and Transport,Luis Amador Jiménez,Q114705151,2022-05-08,
 "Minister of Science, Technology and Telecommunications",Carlos Enrique Alvarado Briceño,Q114705137,2022-05-08,
-Minister of Sport and Recreation,Carlos Ricardo Benavides Jiménez,Q54848004,2011-02-08,2011-05-13
 Minister of Sport and Recreation,Mary Munive,Q111524163,2022-06-04,
-Minister of Tourism,Carlos Ricardo Benavides Jiménez,Q54848004,2010-05-01,2011-04-04
 Minister of Tourism,William Rodríguez López,Q114705157,2022-05-08,
 Minister of Women,Cindy Quesada Hernández,Q114705139,2022-05-08,
 President of the Legislative Assembly,Carlos Vargas Pagán,Q113970806,1999,2000
@@ -66,17 +44,9 @@ President of the Legislative Assembly,Rolando Laclé Castro,Q113970812,2002,2003
 President of the Legislative Assembly,Mario Redondo Poveda,Q26996248,2003,2004
 President of the Legislative Assembly,Gerardo González Esquivel,Q113970807,2004,2006
 President of the Legislative Assembly,Francisco Antonio Pacheco Fernández,Q17540834,2006,2010
-President of the Legislative Assembly,Luis Gerardo Villanueva Monge,Q5983547,2010,2011
-President of the Legislative Assembly,Juan Carlos Mendoza García,Q5390645,2011,2012
-President of the Legislative Assembly,Víctor Emilio Granados Calvo,Q6165476,2012,2013
 President of the Legislative Assembly,Luis Fernando Mendoza Jiménez,Q113970810,2013,2014
 President of the Legislative Assembly,Henry Mora Jiménez,Q16730301,2014,2015
 President of the Legislative Assembly,Rafael Ortiz Fábrega,Q28501766,2015,2016
 President of the Legislative Assembly,Antonio Álvarez Desanti,Q2857521,2016,2017
 President of the Legislative Assembly,Gonzalo Alberto Ramírez Zamora,Q113970809,2017,2018
-President of the Legislative Assembly,Carolina Hidalgo Herrera,Q52768193,2018,2019
-President of the Legislative Assembly,Carlos Ricardo Benavides Jiménez,Q54848004,2019-05-01,2020-04-30
-President of the Legislative Assembly,Eduardo Cruickshank,Q96104614,2020-05-01,2021-04-30
-President of the Legislative Assembly,Silvia Hernández Sánchez,Q90961464,2021-05-01,2022-04-30
-President of the Legislative Assembly,Rodrigo Arias Sánchez,Q6110636,2022-05-01,
 ambassador to Ecuador,Leda Zamora Chaves,Q16731337,2016,
