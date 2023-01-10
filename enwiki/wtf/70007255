@@ -883,6 +883,9 @@
           "url": "https://www.nbcnews.com/tech/tech-news/costa-rica-declares-state-emergency-ransomware-attack-rcna28415",
           "access-date": "2022-05-13",
           "website": "NBC News",
+          "first": "Kevin",
+          "last": "Collier",
+          "date": "2022-05-11",
           "language": "en",
           "template": "citation",
           "type": "web"
